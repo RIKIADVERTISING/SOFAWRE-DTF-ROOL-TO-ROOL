@@ -1,0 +1,13 @@
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\WindowsApplication1\WindowsApplication1\bin\Release\DTF.exe.manifest
+C:\WindowsApplication1\WindowsApplication1\bin\Release\DTF.application
+C:\WindowsApplication1\WindowsApplication1\bin\Release\DTF.exe
+C:\WindowsApplication1\WindowsApplication1\bin\Release\DTF.pdb
+C:\WindowsApplication1\WindowsApplication1\bin\Release\DTF.xml
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.Form1.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.Resources.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.exe.manifest
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.application
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.exe
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.xml
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Release\DTF.pdb
