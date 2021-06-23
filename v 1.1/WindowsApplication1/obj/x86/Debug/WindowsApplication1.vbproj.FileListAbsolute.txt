@@ -1,0 +1,22 @@
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\RIKI ADVERTISING\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\DTF.exe.manifest
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\DTF.application
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\DTF.exe
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\DTF.pdb
+C:\WindowsApplication1\WindowsApplication1\bin\Debug\DTF.xml
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.Form1.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.Resources.resources
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.exe.manifest
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.application
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.exe
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.xml
+C:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\DTF.pdb
